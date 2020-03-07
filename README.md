@@ -8,6 +8,38 @@
 ### 3. Geographic cleaning using CoordinateCleaner
 ### 4. Results and Summary
 
+***
+## Merge columns
+***
+  #### source (GBIF or SIB)
+  #### scientificName_Source
+  #### taxonRank_Source
+  #### occurrenceID                  
+  #### basisOfRecord
+  #### modified
+  #### institutionCode
+  #### collectionCode
+  #### catalogNumber
+  #### identificationQualifier
+  #### identifiedBy
+  #### dateIdentified
+  #### typeStatus
+  #### recordNumber
+  #### recordedBy
+  #### countryCode
+  #### stateProvince
+  #### municipality
+  #### locality
+  #### year
+  #### month
+  #### day
+  #### decimalLatitude
+  #### decimalLongitude
+  #### elevation
+  #### occurrenceRemarks
+  #### fieldNotes
+  #### vernacularName
+  #### samplingProtocol"
 
 ***
 ## Results columns
