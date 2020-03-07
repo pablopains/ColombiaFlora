@@ -11,33 +11,33 @@
  ## results columns
   
   ### Match names against POWO taxonomy:
-    ####  .submittedToPOWO
-    ####  search_unique_POWO
-  ####  nomenclaturestatus_POWO
-  ####  author_POWO
-  ####  kingdom_POWO
-  ####  group_POWO
-  ####  order_POWO
-  ####  family_POWO
-  ####  name_POWO
-  ####  rank_POWO
-  ####  url_POWO
-  ####  fqId_POWO
-  ####  synonyms_homonyms_POWO
+    #### .submittedToPOWO
+    #### search_unique_POWO
+    #### nomenclaturestatus_POWO
+    #### author_POWO
+    #### kingdom_POWO
+    #### group_POWO
+    #### order_POWO
+    #### family_POWO
+    #### name_POWO
+    #### rank_POWO
+    #### url_POWO
+    #### fqId_POWO
+    #### synonyms_homonyms_POWO
   
   ### Geographic cleaning:
-  # .submittedToCoordinateCleaner
-  # .val
-  # .equ
-  # .zer
-  # .cap
-  # .cen
-  # .sea
-  # .urb
-  # .con
-  # .inst
-  # .dpl
-  # .summary
+    #### .submittedToCoordinateCleaner
+    #### .val    
+    #### .equ
+    #### .zer
+    #### .cap
+    #### .cen
+    ##### .sea
+    ##### .urb
+    ##### .con
+    ##### .inst
+    ##### .dpl
+    ##### .summary
 
 ## Developers
 * Pablo Hendrigo Alves de Melo - melo.hendrigo@gmail.com - [GitHub](https://github.com/pablopains)
