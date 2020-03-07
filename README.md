@@ -3,7 +3,7 @@
 ***
 
 ## Index script sections
-### 1. Standardize and join data of plants of Colombia
+### 1. Standardize and join data of plants of Colombia (SiB Colombia and GBIF - Global Biodiversity Information Facility)
 ### 2. Match names against POWO taxonomy using PyKew
 ### 3. Geographic cleaning using CoordinateCleaner
 ### 4. Results and Summary
