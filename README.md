@@ -8,9 +8,11 @@
 ### 3. Geographic cleaning using CoordinateCleaner
 ### 4. Results and Summary
 
- ## Results columns
- 
-  ## Match names against POWO taxonomy:
+***
+## Results columns
+***
+
+### Match names against POWO taxonomy:
   
   #### .submittedToPOWO
   #### search_unique_POWO  
@@ -27,7 +29,7 @@
   #### synonyms_homonyms_POWO
    
    
-  ## Geographic cleaning:
+### Geographic cleaning:
   
   #### .submittedToCoordinateCleaner
   #### .val  # Invalid lat/lon Coordinates  
@@ -41,6 +43,8 @@
   #### .inst # Records in the Vicinity of Biodiversity Institutions
   #### .dpl  # Duplicated Records
   #### .summary
+
+***
 
 ## Developers
 * Pablo Hendrigo Alves de Melo - melo.hendrigo@gmail.com - [GitHub](https://github.com/pablopains)
