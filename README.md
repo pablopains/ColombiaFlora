@@ -8,6 +8,7 @@
 ### 3. Geographic cleaning using CoordinateCleaner
 ### 4. Results and Summary
 
+
 ***
 ## Results columns
 ***
