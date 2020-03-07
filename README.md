@@ -16,7 +16,7 @@
 ### Match names against POWO taxonomy:
   
   #### .submittedToPOWO
-  #### search_unique_POWO  
+  #### search_unique_POWO (species name without author used in POWO search) 
   #### nomenclaturestatus_POWO
   #### author_POWO
   #### kingdom_POWO
@@ -33,16 +33,16 @@
 ### Geographic cleaning:
   
   #### .submittedToCoordinateCleaner
-  #### .val  # Invalid lat/lon Coordinates  
-  #### .equ  # Records with Identical lat/lon
-  #### .zer  # Zero Coordinates 
-  #### .cap  # Coordinates in Vicinity of Country Capitals
-  #### .cen  # Coordinates in Vicinity of Country and Province Centroids
-  #### .sea  # Non-terrestrial Coordinates 
-  #### .urb  # Records Inside Urban Areas
-  #### .con  # Coordinates Outside their Reported Country
-  #### .inst # Records in the Vicinity of Biodiversity Institutions
-  #### .dpl  # Duplicated Records
+  #### .val  (Invalid lat/lon Coordinates)
+  #### .equ  (Records with Identical lat/lon)
+  #### .zer  (Zero Coordinates)
+  #### .cap  (Coordinates in Vicinity of Country Capitals)
+  #### .cen  (Coordinates in Vicinity of Country and Province Centroids)
+  #### .sea  (Non-terrestrial Coordinates) 
+  #### .urb  (Records Inside Urban Areas)
+  #### .con  (Coordinates Outside their Reported Country)
+  #### .inst (Records in the Vicinity of Biodiversity Institutions)
+  #### .dpl  (Duplicated Records)
   #### .summary
 
 ***
