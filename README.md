@@ -8,8 +8,10 @@
 ### 3. Geographic cleaning using CoordinateCleaner
 ### 4. Results and Summary
 
- ## results columns
-  ### Match names against POWO taxonomy:
+ ## Results columns
+ 
+  ## Match names against POWO taxonomy:
+  
   #### .submittedToPOWO
   #### search_unique_POWO  
   #### nomenclaturestatus_POWO
@@ -23,8 +25,10 @@
   #### url_POWO
   #### fqId_POWO
   #### synonyms_homonyms_POWO
+   
+   
+  ## Geographic cleaning:
   
-  ### Geographic cleaning:
   #### .submittedToCoordinateCleaner
   #### .val  # Invalid lat/lon Coordinates  
   #### .equ  # Records with Identical lat/lon
