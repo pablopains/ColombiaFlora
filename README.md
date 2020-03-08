@@ -8,6 +8,41 @@
 ### 3. Geographic cleaning using CoordinateCleaner
 ### 4. Results and Summary
 
+    #' @title ColombiaFlora
+    #' @author Pablo Hendrigo Alves de Melo (melo.hendrigo@gmail.com)
+    #' @description 1. Standardize and join data of plants of Colombia, 
+    #' @description 2. Match names against POWO taxonomy using PyKew,
+    #' @description 3. Geographic cleaning using CoordinateCleaner
+    #' @description 4. Results and Summary
+
+    #' @section 0. Preparation
+    {} # end
+
+    #' @section 1.Standardize and join data of plants of Colombia
+    #' @section 1.1 - Join data 
+    {} # end
+
+    #' @section 2. Match names against POWO taxonomy
+    #' @section 2.1 - Prepere POWO check
+    {} # end
+
+    #' @section 2.2 - POWO check
+    {} # end
+
+    #' @section 2.3 - Update POWO check
+    {} # end
+
+    #' @section 3. Geographic cleaning
+    #' @section 3.1 - CoordinateCleaner
+    {} # end  
+
+    #' @section 4. results and Summary 
+    #' @section 4.1 - Join results
+    {} # end
+
+    #' @section 4.2 - Summary
+    {} # end
+
 ***
 ## Merge columns
 ***
